@@ -6,5 +6,5 @@ This project is intended to create a dynamic webpage and data table to allow use
 ## Results
 TO filter data please use the left hand side filter pane as highlighted below:
 
-![](https://github.com/c3crocks/kickstarter-analysis1/blob/main/Additional_Images/GoalsPie.png)
+![](https://github.com/c3crocks/UFOs/blob/main/static/images/filters.PNG)
 
